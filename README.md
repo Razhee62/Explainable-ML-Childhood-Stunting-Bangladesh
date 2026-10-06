@@ -113,5 +113,5 @@ Python libraries:
 - Prediction dashboard development
 
 ## Author
-AL Razee
+AL Razee,
 Assistant Organizing Secratary, SUST Data Science Club
